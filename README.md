@@ -1,0 +1,2 @@
+# Pythus
+A Python IDE
