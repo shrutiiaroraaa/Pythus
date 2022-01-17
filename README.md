@@ -7,7 +7,7 @@ A Python IDE
 2. Clone your forked copy of the project.
 
 ```bash
-git clone --depth 1 https://github.com/<your username>/opentek.git
+git clone --depth 1 https://github.com/<your username>/pythus.git
 ```
 
 3. Change the working directory
@@ -19,7 +19,7 @@ cd pythus
 4. Add a reference to the original repository.
 
 ```
-git remote add upstream https://github.com/Opentek-Org/opentek.git
+
 ```
 
 5. Check the remotes for this repository.
