@@ -1,5 +1,5 @@
 <h1 align="center">Pythus ⚡</h1>
-A Python Text Editor
+A Python Code Editor
 
 ## 🛠️ Installation Steps
 
